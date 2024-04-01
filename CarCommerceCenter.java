@@ -3,8 +3,8 @@ import java.util.*;
 
 public class CarCommerceCenter {
     private static final String DB_URL = "jdbc:mysql://localhost:3306/car";
-    private static final String USER = "root";
-    private static final String PASSWORD = "0731";
+    private static final String USER = "[Enter your username]";
+    private static final String PASSWORD = "[Enter your password]";
 
     private static Connection connection;
     private static String currentUserEmail;
